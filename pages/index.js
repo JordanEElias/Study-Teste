@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Não devo falar sobre os sonhos das outras pessoas !!</h1>
+    return <h1>HAHA, Que comece o deploy das novas ideias !!</h1>
 
 }
 
