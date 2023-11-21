@@ -1,5 +1,5 @@
 function Home () {
-    return <h1>Para a geologia deve existir um braço de tecnologia</h1>
+    return <h1>Não devo falar sobre os sonhos das outras pessoas !!</h1>
 
 }
 
