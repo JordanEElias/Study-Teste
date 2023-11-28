@@ -1,0 +1,7 @@
+root = true  # Com o ROOT definimos que esse arquivo deve ser usado como uma regra
+
+[*]  # Define que todos os arquivos deveram seguir o padrão escolhido abaixo
+indent_style = space  # Indica o estilo que vamos usar para a indentação
+indent_size = 2  # Indica o tamanho do espaço que teremos para indentação
+
+# Lembrar que devemos instalar a extensão ao VSCODE chamado EditorConfig
